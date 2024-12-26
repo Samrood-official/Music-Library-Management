@@ -5,6 +5,10 @@ git clone https://github.com/Samrood-official/Music-library-management.git
 
 cd Music-library-management
 ```
+Navigate to the directory
+```bash
+cd Music-library-management
+```
 
 Install dependencies with this command:
 ```bash
