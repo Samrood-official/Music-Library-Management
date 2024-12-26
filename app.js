@@ -5,7 +5,7 @@ import tracksRoutes from './routes/tracks.js'
 import albumsRoutes from './routes/albums.js'
 import authRoutes from './routes/auth.js'
 import favoritesRotes from './routes/favorites.js'
-import createConnection from '../Vooshfoods/db/db.js'
+import createConnection from './db/db.js'
 import dotenv from 'dotenv'
 import bodyParser from 'body-parser';
 
