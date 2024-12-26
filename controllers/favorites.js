@@ -1,6 +1,6 @@
 import Albums from "../models/Albums.js";
 import Artists from "../models/Artists.js";
-import Favorites from "../models/favorites.js";
+import Favorites from "../models/Favorites.js";
 import Tracks from "../models/Tracks.js";
 import { generateMissingFieldMessage, INTERNAL_ERROR } from "../utils/common.js";
 
