@@ -15,7 +15,7 @@ const app = express()
 createConnection(process.env.MONGO_URI)
 
 const httpServer = createServer(app);
-
+console.log("server ======")
 app.use(bodyParser.json())
 app.use('/', authRoutes)
 app.use('/users', userRoutes)
