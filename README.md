@@ -2,8 +2,6 @@
 To get started you can simply clone this **cleverpush_task_map_server** repository and install the dependencies.
 ```bash
 git clone https://github.com/Samrood-official/Music-library-management.git
-
-cd Music-library-management
 ```
 Navigate to the directory
 ```bash
