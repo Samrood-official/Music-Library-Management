@@ -1,5 +1,5 @@
 ## Getting Started 
-To get started you can simply clone this **cleverpush_task_map_server** repository and install the dependencies.
+To get started you can simply clone this **Music-library-management** repository and install the dependencies.
 ```bash
 git clone https://github.com/Samrood-official/Music-library-management.git
 ```
